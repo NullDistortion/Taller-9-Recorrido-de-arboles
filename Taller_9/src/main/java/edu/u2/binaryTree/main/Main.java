@@ -55,7 +55,7 @@ public class Main {
                 case "3":
                     tree = null;
                     break;
-                case "4":
+                case "0":
                     exitProgram = true;
                     System.out.println("Fin del programa.");
                     break;
