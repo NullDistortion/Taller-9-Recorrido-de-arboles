@@ -1,4 +1,4 @@
-package edu.u2.sorting;
+package main.java.edu.u2.sorting;
 
 public class  Recorrido_Postorden{
     TreeNode root;
@@ -12,3 +12,4 @@ public class  Recorrido_Postorden{
     }
 
 }
+
